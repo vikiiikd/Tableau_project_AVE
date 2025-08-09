@@ -6,4 +6,4 @@ This Tableau dashboard analyzes Spanish train (AVE) performance by combining rev
 
 [View interactive version on Tableau Public](https://public.tableau.com/app/profile/victoria.komissarchik.trubitsyna/viz/AVE_dashboard_/Dashboard1?publish=yes)
 
-[Download dataset](data/AVE.xlsx)
+[Download dataset](AVE.xlsx)
